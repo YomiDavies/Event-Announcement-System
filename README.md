@@ -6,6 +6,7 @@
 I built a notification platform that enables users to create events and receive real-time updates via email. It’s a lightweight yet scalable system using AWS’s core offerings:
 
 ✅ Amazon S3 – Hosted the static website and stored event data in a JSON format.
+
 ✅ AWS SNS (Simple Notification Service) – Handled email subscriptions and notifications for new events.
 ✅ AWS Lambda – Powered the backend logic, including creating events and managing subscriber data.
 ✅ Amazon API Gateway – Provided RESTful endpoints to facilitate communication between the frontend and backend.
