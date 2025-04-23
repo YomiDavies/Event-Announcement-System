@@ -8,8 +8,11 @@ I built a notification platform that enables users to create events and receive 
 ✅ Amazon S3 – Hosted the static website and stored event data in a JSON format.
 
 ✅ AWS SNS (Simple Notification Service) – Handled email subscriptions and notifications for new events.
+
 ✅ AWS Lambda – Powered the backend logic, including creating events and managing subscriber data.
+
 ✅ Amazon API Gateway – Provided RESTful endpoints to facilitate communication between the frontend and backend.
+
 ✅ IAM Roles & Policies – Implemented to enforce secure access control between AWS services.
 
 💡 Key Skills Demonstrated:
